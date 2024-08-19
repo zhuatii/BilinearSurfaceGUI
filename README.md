@@ -1,6 +1,6 @@
 # Bilinear Surface Display
 
-Run the file [BilinearSurfaceProject_1.py]{BilinearSurfaceProject_1.py}.
+Run the file [BilinearSurfaceProject_1.py](BilinearSurfaceProject_1.py).
 
 -The program can read data from a file and display the bilinear surface and their
 Gaussian and Mean curvature.
